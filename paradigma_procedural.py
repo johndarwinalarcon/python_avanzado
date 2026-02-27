@@ -1,4 +1,4 @@
-## PARADIGMA PROCEDURAL
+# PARADIGMA PROCEDURAL
 
 def registrar_entrada(lista, placa):
     # Agrega un vehiculo a la lista
